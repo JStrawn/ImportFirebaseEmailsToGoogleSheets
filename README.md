@@ -10,6 +10,8 @@ function ImportJSON(url) {
   });
 }
 ```
-Call the function by typing `ImportJSON(YOUR_URL_HERE)` in a cell on Google Sheets.
+Call the function by typing `ImportJSON(YOUR_URL_HERE)` in a cell on Google Sheets. 
+
+Below is the shape of the JSON parsed.
 
 ![height=50% width=50%](data.png)
